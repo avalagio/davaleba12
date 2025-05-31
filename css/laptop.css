@@ -1,0 +1,16 @@
+/* 1439px - 769px */
+@media (max-width: 1000px) {
+  .map {
+    width: 90%;
+    height: 90%;
+  }
+}
+@media (max-width: 800px) {
+  .main_section {
+    display: block;
+    width: 800px;
+    height: 1124px;
+    top: -683px;
+    left: 913px;
+  }
+}
